@@ -3,14 +3,14 @@
     <channel>
         <title>MultiAnalyzer</title>
         <item>
-            <title>0.6.6</title>
-            <pubDate>Wed, 09 Sep 2026 02:07:49 +0900</pubDate>
+            <title>0.6.7</title>
+            <pubDate>Wed, 09 Sep 2026 02:19:44 +0900</pubDate>
             <link>https://github.com/TomoyukiH/MultiAnalyzer-Updates</link>
-            <sparkle:version>22</sparkle:version>
-            <sparkle:shortVersionString>0.6.6</sparkle:shortVersionString>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>0.6.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/TomoyukiH/MultiAnalyzer-Updates/releases/download/v0.6.6/MultiAnalyzer-0.6.6-22.zip" length="1507610" type="application/octet-stream" sparkle:edSignature="uy3NX5DDVuZSrRg+nWiO8a7pMKcwTj8vMO8QuxulAQzN4k+s0aclj6u4eLGGq7uKTqkp7gp543BhsBijhjavBA=="/>
+            <enclosure url="https://github.com/TomoyukiH/MultiAnalyzer-Updates/releases/download/v0.6.7/MultiAnalyzer-0.6.7-23.zip" length="1505871" type="application/octet-stream" sparkle:edSignature="wqnZWkUi0JOcvjUD8N553wIs8nnOzsPs+PWHoO6TvEzkot8Wx5r0jKUKPXdTA0+3/aoUlsEekyuJJ6ugqJvQBQ=="/>
         </item>
     </channel>
 </rss>
